@@ -14,5 +14,3 @@
 <a href="https://github.com/iampawan"><img alt="GitHub followers" src="https://img.shields.io/github/followers/PoojaS?label=PoojaS&style=social">
 </a>
 </p>
-
-<h3>Languages and Tools:</h3>
