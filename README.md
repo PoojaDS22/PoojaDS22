@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning Cloud Computing
-- 📫 How to reach me:
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/poojasureja11/" rel="nofollow">LinkedIn - @PoojaS</a>
 - ✨ Intresting Fact : Learning makes me excited and pushing me towards my goal
 - ⚡ Fun fact: I Love travelling
 
