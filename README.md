@@ -10,9 +10,9 @@
 
 <p dir="auto">
 <a href="https://www.linkedin.com/in/poojasureja11/" rel="nofollow"><img src="https://img.shields.io/badge/PoojaS-%20-blue?style=flat-square&logo=linkedin&label=PoojaS&labelColor=blue">
-</a> 
+<!--</a> 
 <a href="https://github.com/iampawan"><img alt="GitHub followers" src="https://img.shields.io/github/followers/PoojaS?label=PoojaS&style=social">
-</a>
+</a>-->
 </p>
 <h3>🛠Tech Stack</h3>
 <h4>Languages</h4>
